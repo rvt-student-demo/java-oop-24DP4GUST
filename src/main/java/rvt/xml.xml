@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+    <course id="JAVA101">
+        <name>Java Programmēšanas pamati</name>
+        <description>Iemācies Java valodas pamatus, objektorientēto programmēšanu un darbu ar failiem</description>
+        <teacher>Jānis Bērziņš</teacher>
+        <duration>40</duration>
+        <studentCount>25</studentCount>
+        <level>iesācēji</level>
+    </course>
+    
+    <course id="WEB202">
+        <name>Web Izstrāde ar React</name>
+        <description>Izveido modernas tīmekļa aplikācijas izmantojot React bibliotēku</description>
+        <teacher>Anna Ozoliņa</teacher>
+        <duration>60</duration>
+        <studentCount>18</studentCount>
+        <level>vidējs</level>
+    </course>
+    
+    <course id="DB303">
+        <name>Datu bāzu pārvaldība</name>
+        <description>SQL vaicājumi, datu modelēšana un optimizācija</description>
+        <teacher>Pēteris Liepiņš</teacher>
+        <duration>50</duration>
+        <studentCount>15</studentCount>
+        <level>vidējs</level>
+    </course>
+</courses>
